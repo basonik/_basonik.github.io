@@ -1,0 +1,98 @@
+		.TTOC {
+		text-align: center;
+		}
+		.menu {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		}
+		.link {
+		padding: 0 30px;
+		}
+		.scndhdr {
+		color: white;
+		background: url(image/grrr.png);
+		background-size: cover;
+		}
+		.thrdhdr {
+		background: url(image/grenka.png);
+		background-size: cover;
+		}
+		.haract {
+		padding: 0 400px;
+		margin-top: -350px;
+		}
+		.opis {
+		padding: 0 400px;
+		}
+		.buy {
+		color: black;
+		text-decoration: none; 
+		padding: 20px 128px;
+		font-size: 20px;
+		}
+		.card-button {
+		margin-left: 12px;
+		padding: 12px;
+		margin-top: 30px;
+		width: 16%;
+		background: white;
+		box-shadow: 0px 2px 7px #F36223;
+		}
+		.moto2 {
+		margin-top: 12px;
+		}
+		.fignya {
+		font-weight: 1000;
+		}
+		.moto3 {
+		margin-top: 12px;
+		}
+		.moto4 {
+		margin-top: 12px;
+		}
+		.moto5 {
+		margin-top: 12px;
+		}
+		.footer{
+		background: url(image/grrr.png);
+		background-size: cover;
+		color: white;
+		font-size: 22px ;
+		text-align: center;
+		}
+		.container {
+		margin-top: 19px;
+		}
+		.vertical-menu {
+		background: url(image/grrr.png);
+		margin-left: 1350px;
+		 
+		}
+		.news {
+		color: white;
+		text-align: center;
+		}
+		.mus {
+		color: white;
+		text-decoration: none; 
+		}
+		li {
+		margin-bottom: 1.5em;
+		}
+		.autoschool {
+		color: white;
+		text-align: center;
+		margin-top: 50px;
+		}
+		.autoschool1 {
+		color: white;
+		text-align: center;
+		margin-top: 15px;
+		}
+		.sss {
+		color: white;
+		text-align: center;
+		margin-top: 19px;
+		}
+		
