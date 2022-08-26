@@ -17,13 +17,15 @@
 		.thrdhdr {
 		background: url(image/grenka.png);
 		background-size: cover;
+		display: flex;
+		
 		}
 		.haract {
-		padding: 0 400px;
+		padding: 0 50px 0 400px;
 		margin-top: -350px;
 		}
 		.opis {
-		padding: 0 400px;
+		padding: 0 50px 0 400px;
 		}
 		.buy {
 		color: black;
@@ -35,7 +37,7 @@
 		margin-left: 12px;
 		padding: 12px;
 		margin-top: 30px;
-		width: 16%;
+		width: 310px;
 		background: white;
 		box-shadow: 0px 2px 7px #F36223;
 		}
@@ -66,8 +68,8 @@
 		}
 		.vertical-menu {
 		background: url(image/grrr.png);
-		margin-left: 1350px;
-		 
+		order: 1;
+		flex: 0 0 20%;
 		}
 		.news {
 		color: white;
@@ -94,5 +96,8 @@
 		color: white;
 		text-align: center;
 		margin-top: 19px;
+		}
+		.main {
+			flex: 0 0 80%;
 		}
 		
